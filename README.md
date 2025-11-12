@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehanprabodya&label=Profile%20views&color=0e75b6&style=flat" alt="shehanprabodya" /> </p>
 
-- 🔭 I’m currently working on **Gym-managment-system**
+- 🔭 I’m currently working on **Final-Group-Project**
 
 - 🌱 I’m currently learning **Spring Boot**
 
