@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehanprabodya&label=Profile%20views&color=0e75b6&style=flat" alt="shehanprabodya" /> </p>
 
-- 🔭 I’m currently working on **Final-Group-Project**
+- 🔭 I’m currently working on **SPMMS-chief secretariat southern province**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **shehanprabodyawork@gmail.com**
 
